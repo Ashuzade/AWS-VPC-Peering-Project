@@ -1,3 +1,4 @@
+
 **AWS VPC Peering Project**
 
 **Project Overview**
@@ -68,3 +69,5 @@ See the "screenshots/" directory for configuration and connectivity evidence.
 Conclusion
 
 This project demonstrates how VPC Peering enables private network communication between two VPCs through appropriate routing and security group configuration.
+
+<img width="1369" height="634" alt="Architecture" src="https://github.com/user-attachments/assets/17cd23f3-f05f-43bf-a4b0-5ac3ee9735a1" />
